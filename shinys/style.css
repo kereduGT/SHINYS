@@ -1,0 +1,36 @@
+body {
+    background-image: url("images/pokemon.jpg");
+    padding: 5px;
+    font-family: sans-serif;
+   }
+
+h1, p, h2 {
+  text-align: center;
+}
+
+p {
+  font-family: cursive;
+}
+
+.Pokes {
+  width: 90%;
+  background: linear-gradient(45deg, #ff00ff, #00ffb3);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.lista p {
+  display: inline-block;
+}
+
+.poke {
+  text-align: left;
+  width: 50%;
+}
+
+.no {
+  text-align: right;
+  width: 44%;
+}
