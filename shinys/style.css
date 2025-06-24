@@ -14,7 +14,9 @@ p {
 
 .Pokes {
   width: 90%;
-  background: linear-gradient(45deg, #ff00ff, #00ffb3);
+  background: linear-gradient(45deg, #2e92b1, #00ffb3);
+  box-shadow:  0 0 10px 10px black;
+  border-radius: 10px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 20px;
